@@ -1,6 +1,6 @@
 # ChatTTS-Practice2
 > [!TIP]
-> 没有fastapi的版本，直接启动gradio界面
+> 无FastAPI版，可直接启动Gradio界面
 ## 项目运行
 ```bash
 python demo.py 
